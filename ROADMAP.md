@@ -10,6 +10,7 @@
 
 ## Future
 
+- [] Intrument identification in polyphonic audio
 - [] Hash-map candidate retrieval
 - [] Additional filtering
 - [] Temporial constraints
